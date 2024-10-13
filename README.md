@@ -97,6 +97,6 @@ if __name__ == "__main__":
     app = SudokuSolverUI(root)
     root.mainloop()
 ```
-![alt text](/assets/images/Sudoku.JPG)
+![Example Sudoku](Sudoku.JPG)
 
-![alt text](/assets/images/Sudoku Solved.JPG)
+![Solved](Sudoku Solved.JPG)

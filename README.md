@@ -1,5 +1,5 @@
 # Sudoku Solver UI
-Py script to solve sudoku. User can input numbers in grid. 0 means value is blank. 
+Py script to solve sudoku. User can input numbers in grid. 0 or balnk means value is blank. 
 
 ```
 import tkinter as tk
